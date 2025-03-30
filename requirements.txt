@@ -1,0 +1,10 @@
+OpenAI
+langchain-openai 
+langchain-community
+faiss-cpu
+numpy
+chromadb
+neo4j
+fastapi 
+pydantic
+uvicorn
