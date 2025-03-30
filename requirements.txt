@@ -8,3 +8,4 @@ neo4j
 fastapi 
 pydantic
 uvicorn
+scikit-learn 
